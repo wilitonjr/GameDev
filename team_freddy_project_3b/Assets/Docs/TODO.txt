@@ -1,0 +1,25 @@
+TODO:
+    - GDD
+    - additional animation
+    
+
+
+
+DONE:
+    - make camera folows Freddy (3rd person camera)
+    - make camera rotate
+    - design maze 1
+    - design maze 2
+    - design maze 3
+    - play soundfx when Freddy finds the bone
+    - Theme song (now it is the same all scenes)
+    - Sky
+    - Fix bone position on Freddy's mouth when moving
+    - Implement a clock (counter clock?)
+    - Level mechanics to go to next level.
+    - Splash Screen
+    - Text saying the objective of the game.
+        - "Find the bone and go to the palm trees"
+    - make buttons look the same on menu and game
+    - Menu additional images
+    - Save and present best score

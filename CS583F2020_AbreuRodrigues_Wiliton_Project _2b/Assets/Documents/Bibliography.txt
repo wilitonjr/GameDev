@@ -1,0 +1,61 @@
+Image #1 - Main Menu Background
+url: Self made
+date: sep 25, 2020
+licence: cc
+
+Image #2 - Simple Background
+url: Self made
+date: sep 25, 2020
+licence: cc
+
+Image #3 - Buttons
+url: Self made
+date: sep 25, 2020
+licence: cc
+
+Image #4 - game Background
+url: Self made
+date: nov 20, 2020
+licence: cc
+
+Image #5 - obastacles
+url: Self made
+date: nov 20, 2020
+licence: cc
+
+Image #6 - plane (and variations)
+url: Self made
+date: nov 20, 2020
+licence: cc
+
+Image #7 - Splash photo
+url: personal photo
+date: nov 20, 2020
+licence: cc
+
+Image #8 - Splash texts
+url: self made
+date: nov 20, 2020
+licence: cc
+
+Image #9 - SDSU logo
+url: https://www.vhv.rs/viewpic/iixbmom_san-diego-state-aztecs-logo-png-transparent-san/
+date: nov 20, 2020
+licence: Personal Use Only
+
+Sound #1 - barkScore
+url: https://www.freesoundeffects.com/mp3_89450.mp3
+date: nov 15, 2020
+licence: CC
+
+Sound #2 - Song
+url: https://soundcloud.com/llexieboy/quirky-dog
+date: nov 14, 2020
+licence: CC
+
+
+
+Comeback. (2017, July 28). Stones and buried treasure [Assets package]. Unity Asset Store.
+
+
+
